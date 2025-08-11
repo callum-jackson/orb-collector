@@ -15,7 +15,7 @@ theme_override_colors/font_color = Color(1, 1, 1, 1)
 theme_override_font_sizes/font_size = 18
 text = "ScoreLabel"
 
-[node name="Message" type="Label" parent="."]
+[node name="WinMessage" type="Label" parent="."]
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5

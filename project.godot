@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Orb Collector"
-run/main_scene="res://scenes/main.tscn"
+run/main_scene="res://scenes/start.tscn"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
@@ -60,30 +60,35 @@ renderer/rendering_method="mobile"
 [xogot]
 
 project/editorState=[{
-"column": 33,
+"column": 32,
 "current": true,
-"line": 55,
+"line": 26,
 "path": "res://scripts/main.gd",
 "type": "file"
 }, {
-"column": 30,
-"line": 37,
+"column": 0,
+"line": 31,
 "path": "res://scripts/player.gd",
 "type": "file"
 }, {
-"column": 7,
-"line": 15,
+"column": 0,
+"line": 11,
 "path": "res://scripts/orb.gd",
 "type": "file"
 }, {
-"column": 9,
+"column": 0,
 "line": 13,
 "path": "res://scripts/portal.gd",
 "type": "file"
 }, {
-"column": 19,
-"line": 20,
+"column": 0,
+"line": 3,
 "path": "res://scripts/ui.gd",
+"type": "file"
+}, {
+"column": 2,
+"line": 4,
+"path": "res://scripts/start.gd",
 "type": "file"
 }]
 project/breakpoints={
