@@ -60,7 +60,7 @@ renderer/rendering_method="mobile"
 [xogot]
 
 project/editorState=[{
-"column": 32,
+"column": 0,
 "current": true,
 "line": 26,
 "path": "res://scripts/main.gd",
@@ -86,7 +86,7 @@ project/editorState=[{
 "path": "res://scripts/ui.gd",
 "type": "file"
 }, {
-"column": 2,
+"column": 0,
 "line": 4,
 "path": "res://scripts/start.gd",
 "type": "file"
@@ -94,3 +94,4 @@ project/editorState=[{
 project/breakpoints={
 "res://scripts/main.gd": PackedInt32Array()
 }
+project/xogot_game_id="1067_orb-collector"
