@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://b45vj6sasl2hq"]
 
-[ext_resource type="Texture2D" uid="uid://7y2ewffgyube" path="res://assets/wall-corner.png" id="1_t71f3"]
+[ext_resource type="Texture2D" uid="uid://7y2ewffgyube" path="res://assets/sprites/wall-corner.png" id="1_t71f3"]
 
 [node name="Wall-Corner" type="StaticBody2D"]
 
