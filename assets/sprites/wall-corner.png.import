@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djqnc8bcgnd4g"
-path="res://.godot/imported/portal.png-aead05909ff805293aa08d3705b32f3c.ctex"
+uid="uid://7y2ewffgyube"
+path="res://.godot/imported/wall-corner.png-3a277653fe27843cbaaf1a6a338e1a6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/portal.png"
-dest_files=["res://.godot/imported/portal.png-aead05909ff805293aa08d3705b32f3c.ctex"]
+source_file="res://assets/sprites/wall-corner.png"
+dest_files=["res://.godot/imported/wall-corner.png-3a277653fe27843cbaaf1a6a338e1a6a.ctex"]
 
 [params]
 

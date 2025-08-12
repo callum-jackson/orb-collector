@@ -7,6 +7,7 @@ func _ready() -> void:
 
 func _on_body_entered(body: Node2D) -> void:
 	hit.emit()
+	$PortalEnteredSound.play()
 
 func disable_portal():
 	hide()
