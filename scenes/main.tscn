@@ -264,5 +264,8 @@ rotation = 3.14159
 position = Vector2(-273, -270)
 rotation = 1.5708
 
+[node name="ScoreTimer" type="Timer" parent="."]
+
 [connection signal="body_entered" from="Portal" to="Portal" method="_on_body_entered"]
 [connection signal="hit" from="Portal" to="." method="_on_portal_hit"]
+[connection signal="timeout" from="ScoreTimer" to="." method="_on_score_timer_timeout"]

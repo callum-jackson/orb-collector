@@ -65,9 +65,9 @@ renderer/rendering_method="mobile"
 [xogot]
 
 project/editorState=[{
-"column": 0,
+"column": 3,
 "current": true,
-"line": 26,
+"line": 40,
 "path": "res://scripts/main.gd",
 "type": "file"
 }, {
@@ -86,13 +86,13 @@ project/editorState=[{
 "path": "res://scripts/portal.gd",
 "type": "file"
 }, {
-"column": 0,
-"line": 3,
+"column": 22,
+"line": 4,
 "path": "res://scripts/ui.gd",
 "type": "file"
 }, {
 "column": 0,
-"line": 4,
+"line": 2,
 "path": "res://scripts/start.gd",
 "type": "file"
 }]
