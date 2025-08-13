@@ -3,6 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://7y2ewffgyube" path="res://assets/sprites/wall-corner.png" id="1_t71f3"]
 
 [node name="Wall-Corner" type="StaticBody2D"]
+collision_layer = 4
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_t71f3")

@@ -65,35 +65,10 @@ renderer/rendering_method="mobile"
 [xogot]
 
 project/editorState=[{
-"column": 3,
+"column": 18,
 "current": true,
-"line": 40,
-"path": "res://scripts/main.gd",
-"type": "file"
-}, {
-"column": 0,
-"line": 31,
-"path": "res://scripts/player.gd",
-"type": "file"
-}, {
-"column": 0,
-"line": 11,
-"path": "res://scripts/orb.gd",
-"type": "file"
-}, {
-"column": 0,
-"line": 13,
-"path": "res://scripts/portal.gd",
-"type": "file"
-}, {
-"column": 22,
-"line": 4,
-"path": "res://scripts/ui.gd",
-"type": "file"
-}, {
-"column": 0,
 "line": 2,
-"path": "res://scripts/start.gd",
+"path": "res://scripts/main.gd",
 "type": "file"
 }]
 project/breakpoints={
