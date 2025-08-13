@@ -65,7 +65,7 @@ renderer/rendering_method="mobile"
 [xogot]
 
 project/editorState=[{
-"column": 18,
+"column": 0,
 "current": true,
 "line": 2,
 "path": "res://scripts/main.gd",
