@@ -4,8 +4,9 @@
 [ext_resource type="Texture2D" uid="uid://djqnc8bcgnd4g" path="res://assets/sprites/portal.png" id="1_v0xau"]
 [ext_resource type="AudioStream" uid="uid://d2e63t8smjiwn" path="res://assets/sounds/portal-entered.wav" id="3_jr6l0"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_1ffj6"]
-size = Vector2(8, 32)
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_jr6l0"]
+radius = 6.0
+height = 36.0
 
 [node name="Portal" type="Area2D"]
 script = ExtResource("1_1ffj6")
@@ -15,7 +16,7 @@ metadata/_edit_group_ = true
 texture = ExtResource("1_v0xau")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("RectangleShape2D_1ffj6")
+shape = SubResource("CapsuleShape2D_jr6l0")
 
 [node name="PortalEnteredSound" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("3_jr6l0")
